@@ -18,6 +18,9 @@ Banknote Authentication veri seti üzerinde geliştirilen doğrusal ve lojistik 
 Python, NumPy, pandas, Matplotlib, SciPy.
 
 ## Çalıştırma
+
+```bash
 cd "Makine öğrenmesi"
 pip install -r requirements.txt
 python main.py
+```
